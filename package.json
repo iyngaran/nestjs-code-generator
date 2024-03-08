@@ -1,6 +1,6 @@
 {
-  "name": "nestjs-code-generator",
-  "displayName": "NestJs Code Generator",
+  "name": "iyngaran-nestjs-code-generator",
+  "displayName": "Iyngaran NestJs Code Generator ",
   "publisher": "Iyngaran",
   "description": "Generate NestJs code from command palette or explorer context menu.",
   "version": "0.0.1",
@@ -47,5 +47,9 @@
     "@types/fs-extra": "^11.0.4",
     "fs-extra": "^11.2.0",
     "mustache": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iyngaran/nestjs-code-generator.git"
   }
 }
